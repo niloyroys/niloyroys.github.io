@@ -1,4 +1,3 @@
-# niloyroys.github.io
 # 👋 Hi, I’m Niloy Roy
 ### Aspiring Software & Data Scientist | Python | AI | Cloud Computing
 
@@ -20,23 +19,44 @@ I’m a **Computer Science graduate** passionate about building projects that so
 <div align="center">
 
 ### 1. Stock Price Prediction with LSTM
-[![Stock Prediction](https://i.ibb.co/0Vm0hGg/stock-prediction.png)](https://github.com/yourusername/stock-prediction)  
+[![Stock Prediction](https://i.ibb.co/0Vm0hGg/stock-prediction.png)](https://github.com/NiloyRoy/stock-prediction)  
 **Description:** Predicted stock trends using historical data with LSTM models.  
 **Tech Stack:** Python, Pandas, Keras  
 
 ---
 
 ### 2. COVID-19 Data Analysis Dashboard
-[![COVID Dashboard](https://i.ibb.co/1QfQFQs/covid-dashboard.png)](https://github.com/yourusername/covid-dashboard)  
+[![COVID Dashboard](https://i.ibb.co/1QfQFQs/covid-dashboard.png)](https://github.com/NiloyRoy/covid-dashboard)  
 **Description:** Visualized pandemic trends and created an interactive dashboard.  
 **Tech Stack:** Python, Pandas, Matplotlib  
 
 ---
 
 ### 3. Cloud-Based File Storage
-[![Cloud Storage](https://i.ibb.co/0jqHpnp/cloud-storage.png)](https://github.com/yourusername/cloud-storage)  
+[![Cloud Storage](https://i.ibb.co/0jqHpnp/cloud-storage.png)](https://github.com/NiloyRoy/cloud-storage)  
 **Description:** Built a simple file storage application using AWS S3 and Flask.  
 **Tech Stack:** Python, Flask, AWS S3  
+
+---
+
+### 4. Movie Recommendation System
+[![Movie Recommender](https://via.placeholder.com/300x200.png?text=Movie+Recommender)](https://github.com/NiloyRoy/movie-recommender)  
+**Description:** Built a system that recommends movies based on user preferences using collaborative filtering.  
+**Tech Stack:** Python, Pandas, Scikit-learn  
+
+---
+
+### 5. Sentiment Analysis on Tweets
+[![Sentiment Analysis](https://via.placeholder.com/300x200.png?text=Sentiment+Analysis)](https://github.com/NiloyRoy/sentiment-analysis)  
+**Description:** Analyzed tweets to predict sentiment using NLP techniques.  
+**Tech Stack:** Python, NLTK, Scikit-learn  
+
+---
+
+### 6. Personal Portfolio Website
+[![Portfolio Website](https://via.placeholder.com/300x200.png?text=Portfolio+Website)](https://github.com/NiloyRoy/portfolio-website)  
+**Description:** Created a responsive personal portfolio website showcasing projects and skills.  
+**Tech Stack:** HTML, CSS, JavaScript, GitHub Pages  
 
 </div>
 
@@ -52,11 +72,11 @@ I’m a **Computer Science graduate** passionate about building projects that so
 
 ## 🔹 Contact
 
-- 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: niloyroy@example.com  
+- 🔗 LinkedIn: [linkedin.com/in/niloyroy](https://linkedin.com/in/niloyroy)  
+- 🐙 GitHub: [github.com/NiloyRoy](https://github.com/NiloyRoy)
 
 ---
 
 ## 📊 GitHub Stats
-![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloyRoy&show_icons=true&theme=radical)
