@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sree Niloy Kumar Roy
-### Aspiring Software Engineer & Data Scientist | Python | AI | Cloud Computing
+### Computer Science Graduate | C, Python, SQL, Web Development | Experienced in Databases & Simulation Projects | Seeking Roles in Software Development | Data Analytics | Fintech | SQA
 
 I’m a **Computer Science graduate** passionate about building projects that solve real-world problems. I enjoy learning new technologies and applying them in practical scenarios.
 
