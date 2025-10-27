@@ -33,7 +33,7 @@ I’m a **Computer Science graduate** passionate about building projects that so
 ## 🔹 Contact
 
 - 📧 Email: niloyroyshanto@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/niloyroy](https://linkedin.com/in/niloyroys)  
-- 🐙 GitHub: [github.com/NiloyRoy](https://github.com/niloyroys)
+- 🔗 LinkedIn: [linkedin.com/in/niloyroys](https://linkedin.com/in/niloyroys)  
+- 🐙 GitHub: [github.com/niloyroys](https://github.com/niloyroys)
 
 ---
