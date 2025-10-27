@@ -18,65 +18,22 @@ I’m a **Computer Science graduate** passionate about building projects that so
 
 <div align="center">
 
-### 1. Stock Price Prediction with LSTM
-[![Stock Prediction](https://i.ibb.co/0Vm0hGg/stock-prediction.png)](https://github.com/NiloyRoy/stock-prediction)  
-**Description:** Predicted stock trends using historical data with LSTM models.  
-**Tech Stack:** Python, Pandas, Keras  
+### 1. Scenario-Based Visualization of Traffic Congestion
+**Description:** Developed a simulation-based model to analyze and visualize real-world traffic congestion scenarios using data-driven approaches.
+**Tech Stack:** Python, SUMO, JOSM
 
 ---
 
-### 2. COVID-19 Data Analysis Dashboard
-[![COVID Dashboard](https://i.ibb.co/1QfQFQs/covid-dashboard.png)](https://github.com/NiloyRoy/covid-dashboard)  
-**Description:** Visualized pandemic trends and created an interactive dashboard.  
-**Tech Stack:** Python, Pandas, Matplotlib  
+### 2.Created MSME-Institute Website
+[Dashboard](https://sit-web.onrender.com/)  
+**Description:** Developed and deployed a website for a firm, integrating a database to store user responses and display dynamic results using Roll Number. 
+**Tech Stack:** HTML, CSS, JavaScript, MongoDB, Express, React, PHP
 
----
-
-### 3. Cloud-Based File Storage
-[![Cloud Storage](https://i.ibb.co/0jqHpnp/cloud-storage.png)](https://github.com/NiloyRoy/cloud-storage)  
-**Description:** Built a simple file storage application using AWS S3 and Flask.  
-**Tech Stack:** Python, Flask, AWS S3  
-
----
-
-### 4. Movie Recommendation System
-[![Movie Recommender](https://via.placeholder.com/300x200.png?text=Movie+Recommender)](https://github.com/NiloyRoy/movie-recommender)  
-**Description:** Built a system that recommends movies based on user preferences using collaborative filtering.  
-**Tech Stack:** Python, Pandas, Scikit-learn  
-
----
-
-### 5. Sentiment Analysis on Tweets
-[![Sentiment Analysis](https://via.placeholder.com/300x200.png?text=Sentiment+Analysis)](https://github.com/NiloyRoy/sentiment-analysis)  
-**Description:** Analyzed tweets to predict sentiment using NLP techniques.  
-**Tech Stack:** Python, NLTK, Scikit-learn  
-
----
-
-### 6. Personal Portfolio Website
-[![Portfolio Website](https://via.placeholder.com/300x200.png?text=Portfolio+Website)](https://github.com/NiloyRoy/portfolio-website)  
-**Description:** Created a responsive personal portfolio website showcasing projects and skills.  
-**Tech Stack:** HTML, CSS, JavaScript, GitHub Pages  
-
-</div>
-
----
-
-## 🔹 Certifications / Courses
-
-- Python for Data Science – Coursera  
-- Machine Learning – Coursera  
-- AWS Cloud Practitioner – AWS
-
----
 
 ## 🔹 Contact
 
-- 📧 Email: niloyroy@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/niloyroy](https://linkedin.com/in/niloyroy)  
-- 🐙 GitHub: [github.com/NiloyRoy](https://github.com/NiloyRoy)
+- 📧 Email: niloyroyshanto@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/niloyroy](https://linkedin.com/in/niloyroys)  
+- 🐙 GitHub: [github.com/NiloyRoy](https://github.com/niloyroys)
 
 ---
-
-## 📊 GitHub Stats
-![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiloyRoy&show_icons=true&theme=radical)
