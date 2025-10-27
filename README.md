@@ -1,5 +1,5 @@
-# 👋 Hi, I’m Niloy Roy
-### Aspiring Software & Data Scientist | Python | AI | Cloud Computing
+# 👋 Hi, I’m Sree Niloy Kumar Roy
+### Aspiring Software Engineer & Data Scientist | Python | AI | Cloud Computing
 
 I’m a **Computer Science graduate** passionate about building projects that solve real-world problems. I enjoy learning new technologies and applying them in practical scenarios.
 
